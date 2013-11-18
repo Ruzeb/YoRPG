@@ -1,8 +1,6 @@
 YoRPG
 =====
-What's up guys
-
-Stuff we needa do:
+Roles:
 
 Ruzeb: Necromancer, Cleric
 
