@@ -1,4 +1,3 @@
-
 //methods and instances for superclass Character
 public abstract class Character {
 
@@ -57,6 +56,7 @@ public abstract class Character {
     }
     
     //reverts stats for defense and attack back to normal
+    //abstract because each character type normalizes differently
     public abstract void normalize();
     
     //heals a Cleric
